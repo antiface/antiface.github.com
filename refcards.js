@@ -1,1 +1,3 @@
- document.write(produceMessage('Hello!'));
+(document).ready(function() { 
+("p").text("Hello!");
+} ); 
