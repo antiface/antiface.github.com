@@ -1,1 +1,1 @@
-2+2
+ document.write(produceMessage('Hello!'))
