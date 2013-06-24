@@ -1,1 +1,1 @@
- document.write(produceMessage('Hello!'))
+ document.write(produceMessage('Hello!'));
