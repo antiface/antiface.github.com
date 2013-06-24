@@ -1,3 +1,1 @@
-(document).ready(function() { 
-("p").text("Hello!");
-} ); 
+document.write("Hello!");
